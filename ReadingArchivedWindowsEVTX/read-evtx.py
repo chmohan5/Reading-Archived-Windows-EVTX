@@ -1,6 +1,4 @@
 # **** IMPORT A WINDOWS EVTX FILE TO XSIAM DATASET ****
-# Original Version : (brenaud@paloaltonetworks.com)
-# Revised Version : (chmohan@paloaltonetworks.com)
 
 # Script Dependencies to be installed
 # pip3 install evtx flatten_json requests
@@ -16,7 +14,7 @@
 # HTTP Custom Collector token key
 # api_key = "your-api-key-goes-here"
 # HTTP Custom Collector url, click on "Copy api url" to get it and it should be something like:
-# api_url = "https://<your-url-goes-here>.xdr.au.paloaltonetworks.com/logs/v1/event"
+# api_url = "your-api-url-goes-here"
 
 # Number of events you'd like to import per API call
 # If you receive of 413 error message in the import process decrease this number

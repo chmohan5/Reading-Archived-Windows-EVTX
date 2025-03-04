@@ -14,7 +14,7 @@
 # Do NOT use your generic Cortex API key, this is a different one!
 #
 # HTTP Custom Collector token key
-# api_key = "MzU3Ok91RzJnVTd1bGdFVTBhOFZ6VFBOckJUUDZhaUh5OG5xSHRpcU9SY1VkTlZ5RGhjQm5hTHhDZm1NY0p0YVVTNHl5dEhpcXVHOXJrcktBZ2lZSVF5eVZxNERJSzJ1QWhqcUdPN1RNSktpeElVeFU0RVdneGYzYmlGTmdndGJDSHkx"
+# api_key = "your-api-key-goes-here"
 # HTTP Custom Collector url, click on "Copy api url" to get it and it should be something like:
 # api_url = "https://<your-url-goes-here>.xdr.au.paloaltonetworks.com/logs/v1/event"
 
